@@ -1,1 +1,11 @@
 d:\BACKUP\WORK\courses\C# [kottans.net]\CalendarQuiz\bin\Debug\CalendarQuiz.exe.config
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CalendarQuiz\bin\Debug\CalendarQuiz.exe.config
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CalendarQuiz\bin\Debug\CalendarQuiz.exe
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CalendarQuiz\bin\Debug\CalendarQuiz.pdb
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CalendarQuiz\obj\Debug\CalendarQuiz.MainForm.resources
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CalendarQuiz\obj\Debug\CalendarQuiz.Properties.Resources.resources
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CalendarQuiz\obj\Debug\CalendarQuiz.csproj.GenerateResource.Cache
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CalendarQuiz\obj\Debug\CalendarQuiz.exe
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CalendarQuiz\obj\Debug\CalendarQuiz.pdb
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CalendarQuiz\obj\Debug\CalendarQuiz.csprojResolveAssemblyReference.cache
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CalendarQuiz\bin\Debug\MatchCalendar.exe.config

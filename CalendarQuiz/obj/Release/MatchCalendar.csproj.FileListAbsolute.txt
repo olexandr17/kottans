@@ -1,0 +1,8 @@
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CalendarQuiz\bin\Release\MatchCalendar.exe.config
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CalendarQuiz\bin\Release\MatchCalendar.exe
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CalendarQuiz\bin\Release\MatchCalendar.pdb
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CalendarQuiz\obj\Release\CalendarQuiz.MainForm.resources
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CalendarQuiz\obj\Release\MatchCalendar.Properties.Resources.resources
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CalendarQuiz\obj\Release\MatchCalendar.csproj.GenerateResource.Cache
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CalendarQuiz\obj\Release\MatchCalendar.exe
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CalendarQuiz\obj\Release\MatchCalendar.pdb

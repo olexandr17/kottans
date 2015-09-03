@@ -1,0 +1,80 @@
+<data>
+  <event>
+    <team1>Ukraine</team1>
+    <team2>Spain</team2>
+    <dateBegin>12.10.2015 21:45:00</dateBegin>
+    <duration>105</duration>
+  </event>
+  <event>
+    <team1>Generals</team1>
+    <team2>Kremenchuk</team2>
+    <dateBegin>25.09.2015 19:00:00</dateBegin>
+    <duration>105</duration>
+  </event>
+  <event>
+    <team1>Dynamo K</team1>
+    <team2>Oleksandriya</team2>
+    <dateBegin>12.09.2015 19:30:00</dateBegin>
+    <duration>105</duration>
+  </event>
+  <event>
+    <team1>Dynamo K</team1>
+    <team2>Porto</team2>
+    <dateBegin>16.09.2015 21:45:00</dateBegin>
+    <duration>105</duration>
+  </event>
+  <event>
+    <team1>Obolon</team1>
+    <team2>Dynamo K</team2>
+    <dateBegin>23.09.2015 19:30:00</dateBegin>
+    <duration>105</duration>
+  </event>
+  <event>
+    <team1>Dynamo K</team1>
+    <team2>Obolon</team2>
+    <dateBegin>28.10.2015 19:30:00</dateBegin>
+    <duration>105</duration>
+  </event>
+  <event>
+    <team1>Dynamo K</team1>
+    <team2>Goverla</team2>
+    <dateBegin>26.09.2015 19:30:00</dateBegin>
+    <duration>105</duration>
+  </event>
+  <event>
+    <team1>Dynamo K</team1>
+    <team2>Shakhtar</team2>
+    <dateBegin>17.10.2015 19:30:00</dateBegin>
+    <duration>105</duration>
+  </event>
+  <event>
+    <team1>Dynamo K</team1>
+    <team2>Chelsea</team2>
+    <dateBegin>20.10.2015 21:45:00</dateBegin>
+    <duration>105</duration>
+  </event>
+  <event>
+    <team1>Dynamo K</team1>
+    <team2>Metalist</team2>
+    <dateBegin>31.10.2015 19:30:00</dateBegin>
+    <duration>105</duration>
+  </event>
+  <event>
+    <team1>Dynamo K</team1>
+    <team2>Stal D</team2>
+    <dateBegin>07.11.2015 19:30:00</dateBegin>
+    <duration>105</duration>
+  </event>
+  <event>
+    <team1>Dynamo K</team1>
+    <team2>Chornomorets</team2>
+    <dateBegin>28.11.2015 19:30:00</dateBegin>
+    <duration>105</duration>
+  </event>
+  <event>
+    <team1>Dynamo K</team1>
+    <team2>Makkabi T-A</team2>
+    <dateBegin>09.12.2015 21:45:00</dateBegin>
+    <duration>105</duration>
+  </event>
+</data>
