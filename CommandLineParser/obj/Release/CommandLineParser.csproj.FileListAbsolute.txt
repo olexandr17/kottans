@@ -4,3 +4,9 @@ d:\BACKUP\WORK\courses\C# [kottans.net]\CommandLineParser\bin\Release\CommandLin
 d:\BACKUP\WORK\courses\C# [kottans.net]\CommandLineParser\obj\Release\CommandLineParser.csprojResolveAssemblyReference.cache
 d:\BACKUP\WORK\courses\C# [kottans.net]\CommandLineParser\obj\Release\CommandLineParser.exe
 d:\BACKUP\WORK\courses\C# [kottans.net]\CommandLineParser\obj\Release\CommandLineParser.pdb
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CommandLineParser\bin\Release\CommandLineParser.exe.config
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CommandLineParser\obj\Release\CommandLineParser.exe
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CommandLineParser\obj\Release\CommandLineParser.pdb
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CommandLineParser\bin\Release\CommandLineParser.exe
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CommandLineParser\bin\Release\CommandLineParser.pdb
+I:\CLOUDS\Mail.ru\Work\courses\C# [kottans.net]\CommandLineParser\obj\Release\CommandLineParser.csprojResolveAssemblyReference.cache

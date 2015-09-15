@@ -22,7 +22,7 @@ namespace CommandLineParser.commands
 
             if (_arguments.Length > 1)
             {
-                message = _arguments[1];
+                message = string.Join(" ", _arguments, 1, _arguments.Length - 1);
             }
 
             Console.WriteLine(message);

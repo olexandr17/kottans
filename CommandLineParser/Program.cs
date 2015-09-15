@@ -13,7 +13,9 @@ namespace CommandLineParser
         static void Main(string[] args)
         {
             if (args.Length == 0)
+            {
                 args = new string[] { "-help" };
+            }   
 
             do
             {
@@ -32,7 +34,7 @@ namespace CommandLineParser
 
         private static string[] ParseArgs(string[] args)
         {
-            ArrayList commands = new ArrayList();
+            List<string> commands = new List<string>();
 
             string command = null;
 
@@ -56,9 +58,9 @@ namespace CommandLineParser
             if (command != null)
             {
                 commands.Add(command);
-            }   
+            }
 
-            return (string[]) commands.ToArray(typeof(string));
+            return (string[]) commands.ToArray();
         }
 
         private static void ExecuteCommands(string[] commands)
