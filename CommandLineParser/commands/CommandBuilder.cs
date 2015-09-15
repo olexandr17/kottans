@@ -38,6 +38,16 @@ namespace CommandLineParser.commands
                         command = new PrintCommand(args);
                         break;
                     }
+                case "-setuser":
+                    {
+                        command = new SetUserCommand(args);
+                        break;
+                    }
+                case "-getuser":
+                    {
+                        command = new GetUserCommand(args);
+                        break;
+                    }
                 case "-exit":
                     {
                         command = new ExitCommand(args);

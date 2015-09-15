@@ -6,30 +6,28 @@ using System.Threading.Tasks;
 
 namespace CommandLineParser.commands
 {
-    class PingCommand: ICommand
+    class GetUserCommand: ICommand
     {
+
+        private static string userKey = "user";
 
         private string[] _arguments;
 
-        public PingCommand(string[] arguments)
+        public GetUserCommand(string[] arguments)
         {
             _arguments = arguments;
         }
 
         public void Execute()
         {
-            Console.WriteLine("Pinging...");
-
-            int count = 1;
-            if (_arguments.Length > 1)
+            if (DataStorage.hasValue(userKey))
             {
-                int.TryParse(_arguments[1], out count);
+                Console.WriteLine("User is {0}", DataStorage.getValue(userKey));
             }
-
-            for (int i = 0; i < count; i++)
+            else
             {
-                Console.Beep();
-            }   
+                Console.WriteLine("User is not defined");
+            }
         }
 
     }

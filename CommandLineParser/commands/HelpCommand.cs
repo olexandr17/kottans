@@ -18,14 +18,16 @@ namespace CommandLineParser.commands
 
         public void Execute()
         {
-            string help = 
-                "========\n" +
-                "-help                            - show help page\n" +
-                "-exit                            - exit the program\n" +
-                "-key <key1> <val1> <key2> <val2> - show table with keys and values\n" +
-                "-ping <val>                      - sound one or some beeps\n" +
-                "-print <val>                     - print message\n" +
-                "========";
+            string help =
+@"========
+-help                            - show help page
+-exit                            - exit the program
+-key <key1> <val1> <key2> <val2> - show table with keys and values
+-ping <val>                      - sound one or some beeps
+-print <val>                     - print message
+-setuser <val>                   - set user name
+-getuser                         - get user name
+========";
 
             Console.WriteLine(help);
         }

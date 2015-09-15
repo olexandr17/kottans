@@ -44,11 +44,14 @@
     <Compile Include="commands\CommandBuilder.cs" />
     <Compile Include="commands\ExitCommand.cs" />
     <Compile Include="commands\KeyCommand.cs" />
+    <Compile Include="commands\GetUserCommand.cs" />
+    <Compile Include="commands\SetUserCommand.cs" />
     <Compile Include="commands\PrintCommand.cs" />
     <Compile Include="commands\PingCommand.cs" />
     <Compile Include="commands\UnknownCommand.cs" />
     <Compile Include="commands\HelpCommand.cs" />
     <Compile Include="commands\ICommand.cs" />
+    <Compile Include="DataStorage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
