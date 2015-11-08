@@ -27,7 +27,7 @@ namespace Kottans.LINQ
 
         private static IEnumerable<IGrouping<TK, T>> GroupByIterator<T, TK>(this IEnumerable<T> source, Func<T, TK> keySelector)
         {
-            return null;
+            throw new NotImplementedException();
         }
 
         /// <summary>
@@ -52,7 +52,7 @@ namespace Kottans.LINQ
 
         private static IEnumerable<IGrouping<TK, TE>> GroupByIterator<T, TK, TE>(IEnumerable<T> source, Func<T, TK> keySelector, Func<T, TE> elementSelector)
         {
-            return null;
+            throw new NotImplementedException();
         }
 
         /// <summary>
@@ -77,7 +77,7 @@ namespace Kottans.LINQ
 
         private static IEnumerable<TR> GroupByIterator<T, TK, TR>(IEnumerable<T> source, Func<T, TK> keySelector, Func<TK, IEnumerable<T>, TR> resultSelector)
         {
-            return null;
+            throw new NotImplementedException();
         }
 
         /// <summary>
@@ -104,7 +104,7 @@ namespace Kottans.LINQ
 
         private static IEnumerable<TR> GroupByIterator<T, TK, TE, TR>(IEnumerable<T> source, Func<T, TK> keySelector, Func<T, TE> elementSelector, Func<TK, IEnumerable<TE>, TR> resultSelector)
         {
-            return null;
+            throw new NotImplementedException();
         }
 
     }
